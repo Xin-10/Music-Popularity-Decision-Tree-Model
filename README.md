@@ -3,6 +3,10 @@
 This project investigates whether the popularity of a song on Spotify can be predicted using audio and metadata features.  
 Using a dataset of over 114,000 songs across 125 genres, tree-based machine learning models were applied to classify tracks as "popular" or "not popular" and to predict their actual popularity scores.
 
+# Project Files
+
+- Dataset: The dataset used in this project is the Spotify Tracks Dataset. Link to dataset: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+
 ## Models Used
 
 - **Decision Tree Classifier**  
